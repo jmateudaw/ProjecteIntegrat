@@ -4,6 +4,8 @@
  $estacion="";
 
 
+//switch en PHP
+
  switch($numero){
     case 1: $estacion="Verano";break;
     case 2: $estacion="Otoño";break;
